@@ -1,5 +1,3 @@
-Here’s a **README.md** file for your Flask + Gemini interview flashcards project:
-
 ```markdown
 # AI-Powered Interview Flashcards Generator
 
