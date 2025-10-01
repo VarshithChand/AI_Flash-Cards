@@ -135,8 +135,3 @@ Generates 6 flashcards for a given topic.
 This project is open-source and available under the **MIT License**.
 
 ---
-
-```
-
-Would you like me to also make a **`requirements.txt`** file so you can run this immediately without errors?
-```
